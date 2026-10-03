@@ -1,1 +1,1 @@
-print("hello world2, Push2")
+print("hello world2")
